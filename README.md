@@ -10,9 +10,9 @@ Une alimentation électrique (power supply) est un circuit destiné à fournir d
 </p>
 
 <p align="center">
-  <img src="PCB photo.DNG" width="1500">
+  <img src="vue altium 2D.png" width="1500">
 </p>
 
 <p align="center">
-  <img src="PCB photo.DNG" width="1500">
+  <img src="vue 3D altium.png" width="1500">
 </p>
